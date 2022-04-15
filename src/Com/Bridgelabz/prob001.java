@@ -2,7 +2,7 @@ package Com.Bridgelabz;
 
 public class prob001 {
     public static void main(String[] args) {
-        int[] arr = new int[] {1, 2, 3, 4, 5};
+        int[] arr = new int[] {1, 2, 8, 3, 2, 2, 2, 5, 1};
         System.out.println("Elements of given array: ");
 
         for (int i = 0;
